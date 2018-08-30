@@ -102,17 +102,18 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
+  color: #000;
 }
 .masthead-title {
   font-size: 20px;
   margin-top: 0;
   margin-bottom: 0;
   color: #000;
-font-weight: 700;
+  font-weight: 700;
 }
 
 .masthead-title .zag a {
-  font-size: 30px;
+  font-size: 25px;
   text-decoration: none;
 }
 
